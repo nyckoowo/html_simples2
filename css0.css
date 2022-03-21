@@ -1,0 +1,18 @@
+
+body{
+text-align: center;
+background-image: url("background.jpg"), url("background2.jpg");
+background-repeat: no-repeat,repeat;
+
+background-color: rgb(148, 5, 5);
+}
+img{
+    width: 30%;
+    height:auto;
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color:antiquewhite
+}
